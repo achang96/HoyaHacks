@@ -22,6 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <meta-data
+            android:name="com.parse.oPr8LpOG7mkG8r28u5oxW6ea8mhB7dZV4zk5s76r"
+            android:value="oPr8LpOG7mkG8r28u5oxW6ea8mhB7dZV4zk5s76r" />
+        <meta-data
+            android:name="com.parse.pjWUHUMwPT00OJftEkeMBhEukwRYTAsqQxuR5ewJ"
+            android:value="pjWUHUMwPT00OJftEkeMBhEukwRYTAsqQxuR5ewJ" />
     </application>
 
 </manifest>
